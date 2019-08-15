@@ -1,3 +1,0 @@
-a = "hithere"
-
-print(a)

@@ -1,0 +1,6 @@
+Minnie 70
+Heather 60
+Minnie 80
+Kelly 96
+GH 10
+GH 30

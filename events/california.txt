@@ -1,0 +1,15 @@
+GH 100
+Sally 30
+Don 60
+GH 30
+GH 70
+Sally 70
+Sally 20
+Don 40
+jack 90
+Kelly 70
+GH 55
+jack 10
+Kelly 47
+Don 43
+Mike 10
